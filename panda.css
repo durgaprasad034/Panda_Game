@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif';
+}
+.game-container{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+body{
+    background-image:url('https://sklc-tinymce-2021.s3.amazonaws.com/comp/2023/01/Everything%20to%20Know%20About%20VLSI%20Technology_2_1673443347.png');
+    background-size: cover;
+}
+.mole{
+    background-color: aliceblue;
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background:url('https://media.tenor.com/06uIzDXgpzAAAAAM/panda.gifs')center/contain no-repeat;
+    cursor: pointer ;
+}
